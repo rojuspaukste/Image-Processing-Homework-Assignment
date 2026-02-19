@@ -33,5 +33,9 @@ Additionally, the section called "Paths and basic config" allows us to swap over
 
 So far we only account for one exercise, that being squats. However, with a little bit of work, this can easily be extended to other exercises such as jumping jacks, pushups, situps bycep curls or any other exercise that revolves around us changing angles over specific body parts :)
 
+## For peer review team
+
+So far the repo contains 3 squat examples I downloaded from online. If you would like to, you can replicate the same folder structure and include more of your own videos. The only requirements is that the video should preferably contain the whole body of a person doing squats and that it is filmed from the side view :)
+
 
 
